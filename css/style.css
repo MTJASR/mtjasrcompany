@@ -98,8 +98,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #6bc1e9;
-  color: #fff;
+  background: #534f4f;
+  
 }
 
 .back-to-top.active {
